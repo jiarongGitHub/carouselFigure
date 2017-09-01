@@ -1,0 +1,3 @@
+# carouselFigure
+jQuery实现图片轮播
+用jQuery实现的图片自动轮播以及点击轮播效果
